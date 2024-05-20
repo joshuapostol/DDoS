@@ -1,5 +1,12 @@
 # DDoS Installation
 
+how to run?
+use a: https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=terminal
+
+or
+
+replit.com
+
 python3 -m pip install aiohttp
 
 git clone https://github.com/joshuapostol/DDoS
