@@ -7,6 +7,8 @@ or
 
 https://replit.com/
 
+but the beast you wan't to run this use Codespace
+
 # install
 
 python3 -m pip install aiohttp
