@@ -18,3 +18,5 @@ python3 Dos.py
 proof:
 
 ![Alt text](https://i.imgur.com/motFzn6.jpeg)
+
+![Alt text](https://i.imgur.com/kJDQOfr.jpeg)
