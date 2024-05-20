@@ -10,7 +10,7 @@ print("""
    ░       ░        ░ ░        ░  
  ░       ░                          
 \033[0m
-\033[31mCreated by Joshua Apostol\033[0m
+\033[31mfinork ko\033[0m
 \033[31mPlease do not attack gov or edu website thankyou!!!\033[0m
 """)
 
