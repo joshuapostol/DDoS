@@ -36,7 +36,7 @@ https://replit.com/
 
 but the best you wan't to run this use Codespace
 
-# install
+install:
 
 python3 -m pip install aiohttp
 
