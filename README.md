@@ -18,21 +18,20 @@ This script is designed to perform a DDoS attack by sending a high number of HTT
 - **num_ip_addresses**: Number of IP addresses to use.
 - **target_url**: The target URL for the attack.
 
-
-### Instructions
-1. **Save each script** in separate files as indicated above.
-2. **Update the `target_url`** in `config.py` with the actual URL you want to test.
-3. **Run the main script** using `python ddos_attack.py`.
-
-This structure separates configuration, main logic, and helper functions, making the code more modular and easier to manage. Remember to use this script responsibly and legally. Unauthorized use can lead to severe legal consequences.
-
-
 ## Usage
 1. Update the `config.py` file with the desired configuration.
 2. Run the `DDoS.py` script:
 
+## Instructions
+1. **Save each script** in separate files as indicated above.
+2. **Update the `target_url`** in `config.py` with the actual URL you want to test.
+3. **Run the main script** using `python DDoS.py`.
+
+This structure separates configuration, main logic, and helper functions, making the code more modular and easier to manage. Remember to use this script responsibly and legally. Unauthorized use can lead to severe legal consequences.
+
+
 ```sh
-python ddos_attack.py
+python DDoS.py
 
 
 
