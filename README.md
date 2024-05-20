@@ -5,7 +5,9 @@ use a: https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=termina
 
 or
 
-replit.com
+https://replit.com/
+
+install
 
 python3 -m pip install aiohttp
 
