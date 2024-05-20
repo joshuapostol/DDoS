@@ -7,7 +7,7 @@ or
 
 https://replit.com/
 
-install
+# install
 
 python3 -m pip install aiohttp
 
