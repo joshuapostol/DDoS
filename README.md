@@ -6,7 +6,7 @@ This script is designed to perform a DDoS attack by sending a high number of HTT
 ## Author
 [joshua Apostol]
 
-proof:
+## proof:
 
 ![Alt text](https://i.imgur.com/motFzn6.jpeg)
 
