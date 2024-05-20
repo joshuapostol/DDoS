@@ -29,7 +29,7 @@ This structure separates configuration, main logic, and helper functions, making
 
 ## Usage
 1. Update the `config.py` file with the desired configuration.
-2. Run the `ddos_attack.py` script:
+2. Run the `DDoS.py` script:
 
 ```sh
 python ddos_attack.py
