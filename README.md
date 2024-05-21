@@ -50,6 +50,6 @@ python3 -m pip install aiohttp
 
 git clone https://github.com/joshuapostol/DDoS
 
-cd DDoS
+cd DoS
 
 python3 DDoS.py
