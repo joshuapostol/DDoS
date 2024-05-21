@@ -20,8 +20,8 @@ print("""
  ░       ░                          
                             Version 1.0
 \033[0m
-\033[31mCreated by Joshua Apostol\n\033[0m
-\033[31mPlease do not attack gov or edu website thankyou!!!\033[0m
+\033[31mTinidor ni Churchil\n\033[0m
+\033[31m𝗰𝗿𝗲𝗱𝗶𝘁𝘀:𝗝𝗨𝗦𝗪𝗔\033[0m
 """)
 
 
