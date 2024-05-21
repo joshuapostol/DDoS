@@ -1,3 +1,12 @@
+import aiohttp
+import asyncio
+import time
+import multiprocessing
+import random
+import os
+
+os.system('cls' if os.name == 'nt' else 'clear')
+
 print("""
 \033[31m▓█████▄ ▓█████▄  ▒█████    ██████ 
 ▒██▀ ██▌▒██▀ ██▌▒██▒  ██▒▒██    ▒ 
@@ -9,16 +18,12 @@ print("""
  ░ ░  ░  ░ ░  ░ ░ ░ ░ ▒  ░  ░  ░  
    ░       ░        ░ ░        ░  
  ░       ░                          
+                            Version 1.0
 \033[0m
-\033[31mCreated by Joshua Apostol\033[0m
+\033[31mCreated by Joshua Apostol\n\033[0m
 \033[31mPlease do not attack gov or edu website thankyou!!!\033[0m
 """)
 
-import aiohttp
-import asyncio
-import time
-import multiprocessing
-import random
 
 total_requests = 100000000
 requests_per_second = 1000000
