@@ -48,7 +48,7 @@ install:
 
 python3 -m pip install aiohttp
 
-git clone https://github.com/Justerw/DDoS
+git clone https://github.com/joshuapostol/DDoS
 
 cd DDoS
 
